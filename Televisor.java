@@ -9,8 +9,7 @@ package co.edu.poli.act1.electrodomesticos;
  * @author Acer Nitro 5
  */
 public class Televisor {
-    // Subclase Television que hereda de Electrodomestico
-
+    
     public class Television extends Electrodomestico {
 
         // Atributos propios
@@ -72,3 +71,4 @@ public class Televisor {
     }
 
 }
+
